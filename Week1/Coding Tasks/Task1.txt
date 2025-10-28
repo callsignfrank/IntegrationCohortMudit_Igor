@@ -1,0 +1,23 @@
+Question #5
+
+We have this endpoint:
+
+https://735ef563-176d-431c-85ce-2cc07056ef03.mock.pstmn.io/payments/link
+
+Here's your task:
+
+
+
+
+
+Make an API request and verify that you are successfully receiving a response (status code 200)
+
+
+
+Parse the response and get the IP address of the transaction.
+
+
+
+Write your solutions in the weekly chat.
+
+It’s similar to getting a payment link, have fun :)

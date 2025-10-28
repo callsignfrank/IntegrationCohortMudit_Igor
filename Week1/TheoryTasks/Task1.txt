@@ -1,0 +1,15 @@
+Question #1
+
+What are the components of an HTTP request?
+
+Question #2
+
+What are the components of an HTTP response?
+
+Question #3
+
+What are the 2 most popular payload formats?
+
+Question #4
+
+Explain JSON format in your own words. Give an example.
